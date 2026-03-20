@@ -30,10 +30,14 @@
 ### [ax-checklist](https://github.com/jhr122333/ax-checklist)
 조직의 AI 전환(AX) 준비도를 진단하는 체크리스트 도구.
 
+![HTML](https://img.shields.io/badge/HTML%2FCSS-E34F26?style=flat-square&logo=html5&logoColor=white)
+
 ---
 
 ### [translation-qa](https://github.com/jhr122333/translation-qa)
 AI 번역 품질을 자동으로 평가하는 QA 도구.
+
+![HTML](https://img.shields.io/badge/HTML%2FCSS%2FJS-E34F26?style=flat-square&logo=html5&logoColor=white)
 
 ---
 

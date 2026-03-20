@@ -1,7 +1,6 @@
 # 안녕하세요 👋 AI를 평가하고, 도구로 만들고, 조직에 정착시키는 일을 합니다.
 
-**LLM 평가 & AI 품질 관리** · **AI 서비스 기획 & PoC 개발 (Claude Code 활용)** · **번역학 석사 (2026.02)** 
-— 논문: 「인공지능 시대에 변화하는 로컬라이제이션 산업의 직무 및 핵심역량 분석」
+**LLM 평가 & AI 품질 관리** · **AI 서비스 기획 & PoC 개발** · **번역학 석사 (2026.02)** 
 
 ---
 
@@ -60,6 +59,9 @@ AI 번역 품질을 자동으로 평가하는 QA 도구.
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-222222?style=flat-square&logo=githubpages&logoColor=white)
 
+
+## 논문
+「인공지능 시대에 변화하는 로컬라이제이션 산업의 직무 및 핵심역량 분석」
 ---
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hyeri-jang-aa07a9290)

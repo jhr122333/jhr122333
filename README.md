@@ -76,9 +76,10 @@ AI 번역 품질을 자동으로 평가하는 QA 도구.
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-222222?style=flat-square&logo=githubpages&logoColor=white)
 
-
 ## 논문
-[「인공지능 시대에 변화하는 로컬라이제이션 산업의 직무 및 핵심역량 분석」](https://lib.sookmyung.ac.kr/search/detail/CAT000000888330)
+
+- [「인공지능 시대에 변화하는 로컬라이제이션 산업의 직무 및 핵심역량 분석」](https://lib.sookmyung.ac.kr/search/detail/CAT000000888330)
+
 ---
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hyeri-jang-aa07a9290)

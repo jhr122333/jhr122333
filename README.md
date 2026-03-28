@@ -19,6 +19,19 @@
 
 ---
 
+### [ai-eval-calibration](https://github.com/jhr122333/ai-eval-calibration)
+1차 평가와 2차 검수 결과를 비교해 정확도와 수정 패턴을 분석하는 AI 평가 캘리브레이션 대시보드.
+
+- 전체 정확도, 변경 건수, 평가자별 정확도, 항목별 변경률 시각화
+- 변경 사례 드릴다운, 콘텐츠별 수정 패턴 분석, SOP 가이드라인 인앱 열람
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI%20API-412991?style=flat-square&logo=openai&logoColor=white)
+
+---
+
 ### [sop-qa-assistant](https://github.com/jhr122333/sop-qa-assistant) · [데모](https://jhr122333.github.io/sop-qa-assistant/)
 제약·바이오 SOP 문서 기반 AI Q&A 챗봇. SOP 10종 검색, 답변 근거 출처 표시, 질문 로그 저장, 관리자 대시보드.
 

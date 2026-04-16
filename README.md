@@ -23,11 +23,13 @@
 
 - 전체 정확도, 변경 건수, 평가자별 정확도, 항목별 변경률 시각화
 - 변경 사례 드릴다운, 콘텐츠별 수정 패턴 분석, SOP 가이드라인 인앱 열람
+- **Power BI 대시보드**: 월별 추이 및 검수자 분석 시각화
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI%20API-412991?style=flat-square&logo=openai&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 
 ---
 
@@ -54,6 +56,17 @@ AI 번역 품질을 자동으로 평가하는 QA 도구.
 
 ---
 
+### [financial-dashboard-powerbi](https://github.com/jhr122333/financial-dashboard-powerbi)
+복합 사업부 구조의 재무 데이터를 Power BI로 시각화한 포트폴리오 프로젝트. 손익계산서·재무상태표·현금흐름표를 통합 조회하고, 사업 세그먼트·기간별 드릴다운을 지원.
+
+- KPI 카드(매출액·영업이익·영업이익률·부채비율), 분기별 추이, 세그먼트별 수익성 비교
+- 현금흐름 워터폴 차트, 원가율 경보, Star Schema 데이터 모델링(Fact/Dimension)
+
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![DAX](https://img.shields.io/badge/DAX-512BD4?style=flat-square)
+
+---
+
 ### [ai-workflow-lab](https://github.com/jhr122333/ai-workflow-lab)
 현업 AX 교육·실습·워크숍 지원 플랫폼. SOP QA · AX Checklist · Translation QA를 통합하여 진단 → 학습 → 실습 → PoC까지 이어지는 AX Enablement Cycle 설계.
 
@@ -75,6 +88,7 @@ AI 번역 품질을 자동으로 평가하는 QA 도구.
 ![Framer Motion](https://img.shields.io/badge/Framer%20Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-222222?style=flat-square&logo=githubpages&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 
 ## 논문
 
